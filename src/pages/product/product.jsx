@@ -62,6 +62,16 @@ const Product = () => {
   return (
     <div className="product_container">
       <div className="filter_section">
+        <div className="header">
+            <div>
+                Filter
+            </div>
+            <div onClick={() => {
+                dispatchProduct({type: 'CLEAR_ALL'})
+            }}>
+                Clear All
+            </div>
+        </div>
         {filterData &&
           filterData.length > 0 &&
           filterData.map((filter, index) => (

@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "brand": "HANUMNTRA",
+      "subTitle": "Sporty Men Round Neck",
+      "price": 3000,
+      "category": "men",
+      "image": "https://rukminim1.flixcart.com/image/320/384/xif0q/t-shirt/x/j/5/xs-bwtrnful-z55-blive-original-imaggvyuc8emdn9g.jpeg?q=50",
+      "discount":10,
+      "size": ["xxl", "xl"]
+    },
+    {
+      "id": 2,
+      "brand": "HANUMNTRA",
+      "subTitle": "Original Cotton Reverse",
+      "price": 1500,
+      "category": "unisex",
+      "image": "https://rukminim1.flixcart.com/image/580/696/l0tweq80/sock/p/w/k/free-3-ad-0742-adidas-original-imagcgyrwpmazhht.jpeg?q=50",
+      "discount":15,
+      "size": ["free"]
+    },
+    {
+      "id": 3,
+      "brand": "KPI",
+      "subTitle": "Embroidered Stitched Lehenga Choli",
+      "price": 2500,
+      "category": "women",
+      "image": "https://rukminim1.flixcart.com/image/580/696/xif0q/lehenga-choli/m/d/2/m-half-sleeve-kp-1-kpi-original-imagjzrftrkejcy4.jpeg?q=50",
+      "discount":30,
+      "size": ["xl"]
+    },
+    {
+      "id": 4,
+      "brand": "Manayavor",
+      "subTitle": "Checkered Single Breasted Formal Men",
+      "price": 1200,
+      "category": "men",
+      "image": "https://rukminim1.flixcart.com/image/580/696/xif0q/blazer/1/z/k/44-bzfgw287-ad-by-arvind-original-imaggc4aknnd6kxg.jpeg?q=50",
+      "discount":25,
+      "size": ["l"]
+    },
+    {
+      "id": 5,
+      "brand": "Lama",
+      "subTitle": "Full Sleeve Dyed Men & Women Sweatsh",
+      "price": 3000,
+      "category": "unisex",
+      "image": "https://rukminim1.flixcart.com/image/580/696/xif0q/sweatshirt/l/i/s/6xl-ladlp07bt-lama-original-imagjztfcjycerrc.jpeg?q=50",
+      "discount":10,
+      "size": ["xl"]
+    },
+    {
+      "id": 6,
+      "brand": "Lama",
+      "subTitle": "Full Sleeve Printed Women Sweatsh",
+      "price": 900,
+      "category": "women",
+      "image": "https://rukminim1.flixcart.com/image/580/696/xif0q/sweatshirt/n/x/2/6xl-ladlp09ls-lama-original-imagjzss8txdtbg2.jpeg?q=50",
+      "discount":20,
+      "size":[ "xl"]
+    }
+    
+  ]

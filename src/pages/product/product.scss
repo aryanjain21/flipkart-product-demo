@@ -1,0 +1,14 @@
+.product_container {
+    display: flex;
+    .filter_section {
+        width: 25%;
+    }
+    .product_details_container {
+        width: 75%;
+        .card_area {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+    }
+}

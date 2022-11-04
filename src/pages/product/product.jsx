@@ -56,6 +56,7 @@ const Product = () => {
 
   useEffect(() => {
     dispatchProduct({type: 'FILTER', payload: {sizes, brands, ideal}})
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [sizes, brands, ideal])
 
   return (

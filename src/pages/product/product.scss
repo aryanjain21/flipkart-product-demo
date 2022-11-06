@@ -1,19 +1,23 @@
 .product_container {
     display: flex;
-    .filter_section {
-        width: 25%;
-        .header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-    }
+    padding: 8px;
+    // background-color: #949494;
     .product_details_container {
         width: 75%;
+        padding: 16px;
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
         .card_area {
             display: flex;
             flex-wrap: wrap;
             margin-right: 8px;
+            .warning {
+                font-size: 14px;
+                line-height: 18px;
+                color: orange;
+                padding: 8px;
+                font-weight: 500;
+                background-color: lightgoldenrodyellow;
+            }
         }
     }
 }

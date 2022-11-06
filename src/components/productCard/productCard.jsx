@@ -19,7 +19,7 @@ const ProductCard = (props) => {
           </span> */}
           <span className="discount">{data.discount}% off</span>
         </div>
-        <div className="size">Size: {data.size && data.size.length > 0 && data.size.map((size, index) => (<span key={index}>{size}</span>))}</div>
+        <div className="size">Size: {data.size && data.size.length > 0 && data.size.map((size, index) => (<span key={index}>{size}{data.size.length > 1 && data.size.length -1 !== index && <span>,</span>}</span>))}</div>
       </div>
     </div>
   );

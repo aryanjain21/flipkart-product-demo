@@ -1,0 +1,28 @@
+.sort_section {
+    margin-bottom: 12px;
+    .sort {
+        display: flex;
+        align-items: center;
+        .title {
+            font-size: 18px;
+            line-height: 21px;
+            color: #2c2c2c;
+            font-weight: 500;
+            margin-right: 8px;
+        }
+        .options {
+            span {
+                margin-right: 8px;
+                .link {
+                    cursor: pointer;
+                    &.selected {
+                        color: blue;
+                    }
+                }
+                &:last-child {
+                    margin-right: 0;
+                }
+            }
+        }
+    }
+}
